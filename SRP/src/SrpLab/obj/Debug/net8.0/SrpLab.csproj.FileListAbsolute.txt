@@ -1,0 +1,13 @@
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.AssemblyInfoInputs.cache
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.AssemblyInfo.cs
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.csproj.CoreCompileInputs.cache
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.sourcelink.json
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\bin\Debug\net8.0\SrpLab.deps.json
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\bin\Debug\net8.0\SrpLab.dll
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\bin\Debug\net8.0\SrpLab.pdb
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.dll
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\refint\SrpLab.dll
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.pdb
+d:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\ref\SrpLab.dll
+D:\Users\hassan\Desktop\ahmed2\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.csproj.Up2Date

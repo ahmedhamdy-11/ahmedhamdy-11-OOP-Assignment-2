@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\shelver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:shelver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-2\\inheritance\\src\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEC51B-2EC4-62EA-C68E-21A9EFAF1DA9}|LibrarySystem.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Loan.cs",
+              "RelativeDocumentMoniker": "Loan.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Loan.cs",
+              "RelativeToolTip": "Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:32:06.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:27:12.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shelver.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Shelver.cs",
+              "RelativeDocumentMoniker": "Shelver.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Shelver.cs",
+              "RelativeToolTip": "Shelver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:25:58.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:10:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:58:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:26:51.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-2\\Inheritance\\src\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:34:08.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
